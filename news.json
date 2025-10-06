@@ -1,14 +1,15 @@
 {
   "articles": [
     {
-      "title": "Bible Verse of the Day",
+      "title": "New of the day",
       "description": "Let your light shine before others. - Matthew 5:16",
-      "urlToImage": "https://raw.githubusercontent.com/bobjaladi/newsapi/main/images/verse.jpg"
+      "urlToImage": "https://github.com/Bobjaladi/newsimg/blob/main/images/TEJA.jpg"
     },
     {
       "title": "Christian Music Concert in Hyderabad",
       "description": "A special worship night with Telugu gospel artists.",
-      "urlToImage": "https://raw.githubusercontent.com/bobjaladi/newsapi/main/images/concert.jpg"
+      "urlToImage": "https://github.com/Bobjaladi/newsimg/blob/main/images/bobtcs.jpg"
     }
   ]
 }
+
